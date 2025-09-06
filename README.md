@@ -1,6 +1,7 @@
 Cloak V4
 ==============
-<img src="doc/showcase1.png" alt="showcase" width="80%" />
+This is a fork of https://github.com/TeamAcedia/CloakV4 just to send suggested fixes back to the developers.
+This fork will not be updated on an ongoing basis, so if you want to download CloakV4, please use the /TeamAcedia repository instead of this one.
 
 A minetest cheat client based off of Luanti 5.12.0.
 
